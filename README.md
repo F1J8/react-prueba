@@ -13,8 +13,8 @@ Desarrolle una aplicación en react que se conecte con API para listar y ver det
  ```sh
 Endpoint: GET https://www.freetogame.com/api/games
 ```
+* Ejemplo de un item:
 ``` json
-Ejemplo de un item:
 {
     "id": 515,
     "title": "Halo Infinite",
@@ -37,8 +37,8 @@ Ejemplo de un item:
 Endpoint: GET https://www.freetogame.com/api/game?id=452
 Utilizar el game id
 ```
+* Ejemplo de un item:
 ``` json
-Ejemplo de un item:
 {
   "id": 515,
   "title": "Halo Infinite",
