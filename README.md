@@ -34,7 +34,7 @@ Endpoint: GET https://www.freetogame.com/api/games
 * Mostrar screenshots del juego
 * Mostrar los requisitos mínimos del juego 
  ```sh
-Endpoint: GET https://www.freetogame.com/api/game?id=452
+Endpoint: GET https://www.freetogame.com/api/game?id=515
 Utilizar el game id
 ```
 * Ejemplo de un item:
