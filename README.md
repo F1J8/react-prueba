@@ -100,8 +100,8 @@ Deberás tener instalado las siguientes versiones de librerías para ello.
 * NPM / latest
 * Git / latest
 
-#### Evitar utilizar frameworks o librerías de estilo *(Boostrap/Foundation)* utilizar css/scss
-#### Al finalizar subir el contenido a un repositorio público y enviar el enlace. 
+#### Evita utilizar frameworks o librerías de estilo *(Boostrap/Foundation)* 
+#### Al finalizar sube el proyecto a un repositorio público. 
 * *(Opcional)* Publicar en Cloudflare Pages / Github Pages / Heroku / etc
 * *(Opcional)* Integrar Redux
 * *(Opcional)* Integrar Sentry
